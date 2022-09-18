@@ -1,0 +1,53 @@
+.wd-handle {
+    color: lightgrey;
+    padding-bottom: 12px;
+    font-family: 'Verdana';
+    font-size: 13px;
+}
+
+.wd-avatar-image {
+    height: 48px;
+    width: 48px;
+    border-radius: 50px;
+    margin-top: 12px;
+}
+
+.wd-bookmark-image {
+    height: 264px;
+    width: 504px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    margin-left: 60px;
+    border-bottom: rgb(99, 97, 97);
+    border-style: solid;
+}
+
+.wd-bookmark-description {
+    color:white;
+    font-size: 15px;
+    font-family: 'Verdana';
+    margin-right: 436px;
+    margin-left: 60px; 
+    margin-top: -5px; 
+    border-color: rgb(99, 97, 97); 
+    border-style: solid; 
+    padding-top: 12px; 
+    padding-bottom: 12px; 
+    padding-left: 12px; 
+    padding-right: 12px; 
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+
+.wd-bookmark-symbols {
+    height: 15px;
+    width: 15px;
+}
+
+.wd-bookmark-symbol-numbers {
+    color: rgb(143, 140, 140);
+    font-family: 'Verdana';
+    font-size: 14px;
+    padding-left: 12px;
+
+}

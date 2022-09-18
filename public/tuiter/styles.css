@@ -1,0 +1,26 @@
+.wd-background {
+    background-color: black;
+    padding-left: 16px;
+    margin-top: 1%;
+}
+
+.wd-hyperlinks {
+    padding-bottom: 2%;
+    color: white;
+    font-family: 'Verdana';
+    font-size: 25px;
+}
+
+.wd-trending-labels {
+    color: rgb(110, 118, 125);
+    font-family: 'Verdana';
+    padding-top: 5px;
+    padding-left: 25px;
+    font-size: 13px;
+}
+
+.wd-news-labels {
+    color: white;
+    font-family: 'Verdana';
+    font-size: 13px;
+}

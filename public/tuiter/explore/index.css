@@ -1,0 +1,60 @@
+.wd-top-input {
+    background-color: darkslategrey;
+    width: 85%;
+    border-radius: 15px;
+    border-color: transparent;
+    height: 25px;
+    font-family:'Verdana';
+}
+
+.wd-gear-settings {
+    float: right;
+    color: rgb(29,161,242);
+    margin-right: 12px;
+    font-size: 200%;
+    text-decoration: none; 
+}
+
+.wd-for-you-hyperlink {
+    color: rgb(29,161,242);
+    border-style: solid;
+    border-width: 5px;
+    border-top-color: transparent;
+    border-left-color: transparent;
+    border-right-color: transparent;
+    border-bottom-color: rgb(29,161,242);
+    padding-bottom: 16px;
+    border-bottom-style: inherit;
+}
+
+.wd-unclicked-hyperlink {
+    padding-top: 16px;
+    padding-bottom: 16px;
+    padding-right: 16px;
+    color: rgb(110, 118, 125);
+    font-family: 'Arial';
+    font-size: 15px;
+    border-style: solid;
+    border-width: 5px;
+    border-top-color: transparent;
+    border-left-color: transparent;
+    border-right-color: transparent;
+    border-bottom-color: rgb(55, 61, 68);
+}
+
+.wd-trending-titles {
+    color: white;
+    font-size: 16px;
+    font-family: 'Verdana';
+    padding-left: 25px;
+}
+
+.wd-news-images {
+    margin-right: 16px;
+    margin-top: 5px;
+    float: right;
+    height: 100px;
+    width: 100px;
+    border-radius: 15px;
+
+}
