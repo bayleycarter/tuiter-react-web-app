@@ -26,8 +26,9 @@
     color:white;
     font-size: 15px;
     font-family: 'Verdana';
-    margin-right: 436px;
+    /* margin-right: 400px; */
     margin-left: 60px; 
+    width: 480px;
     margin-top: -5px; 
     border-color: rgb(99, 97, 97); 
     border-style: solid; 
@@ -42,12 +43,13 @@
 .wd-bookmark-symbols {
     height: 15px;
     width: 15px;
+    margin-left: 70px;
 }
 
 .wd-bookmark-symbol-numbers {
     color: rgb(143, 140, 140);
     font-family: 'Verdana';
     font-size: 14px;
-    padding-left: 12px;
+    margin-left: 12px;
 
 }
