@@ -27,32 +27,32 @@ const NavigationSidebar = () => {
                 <i class="fa-solid fa-hashtag"></i>
                 &nbsp;Explore
             </Link>
-            <a className={`list-group-item
+            <a href="#" className={`list-group-item
                             ${active === 'notifications'?'active':''}`}>
                 <i class="fa-regular fa-bell"></i>
                 &nbsp;Notifications
             </a>
-            <a className={`list-group-item
+            <a href="#" className={`list-group-item
                             ${active === 'messages'?'active':''}`}>
                 <i class="fa-regular fa-envelope"></i>
                 &nbsp;Messages
             </a>
-            <a className={`list-group-item
+            <a href="#" className={`list-group-item
                             ${active === 'bookmarks'?'active':''}`}>
                 <i class="fa-regular fa-bookmark"></i>
                 &nbsp;Bookmarks
             </a>
-            <a className={`list-group-item
+            <a href="#" className={`list-group-item
                             ${active === 'lists'?'active':''}`}>
                 <i class="fa-solid fa-list"></i>
                 &nbsp;Lists
             </a>     
-            <a className={`list-group-item
+            <a href="#" className={`list-group-item
                             ${active === 'profile'?'active':''}`}>
                 <i class="fa-regular fa-user"></i>
                 &nbsp;Profile
             </a>
-            <a className={`list-group-item
+            <a href="#" className={`list-group-item
                             ${active === 'more'?'active':''}`}>
                 <i class="fa-solid fa-ellipsis"></i>
                 &nbsp;More

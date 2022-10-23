@@ -9,7 +9,7 @@ const HomeComponent = () => {
             <span class="wd-retweet-header ms-1"><b>Elon Musk Retweeted</b></span>
         </div>
         <div style={{width: '75%'}}>
-                <img class="wd-avatar-image mt-2"
+                <img class="wd-avatar-image mt-2" alt="spacex"
                     src={require('../images/spacex.png')}/>
                 <span class="wd-author-name"><b>SpaceX</b></span>
                 <span class="wd-author-name ms-1"><i class="fa fa-check-circle" aria-hidden="true"></i></span>
@@ -25,7 +25,7 @@ const HomeComponent = () => {
         </div>
 
         <img class="wd-bookmark-image rounded"
-        src={require("../images/tito.jpeg")}/>
+        src={require("../images/tito.jpeg")} alt="tito couple"/>
 
         <div class="wd-bottom-box">
             <div>
@@ -50,7 +50,7 @@ const HomeComponent = () => {
         <hr class="mb-3"/>
 
         <div style={{width: '75%'}}>
-                <img class="wd-avatar-image mt-2"
+                <img class="wd-avatar-image mt-2" alt="rocket"
                     src={require('../images/rocket.jpeg')}/>
                 <span class="wd-author-name"><b>Elon Musk</b></span>
                 <span class="wd-author-name ms-1"><i class="fa fa-check-circle" aria-hidden="true"></i></span>
@@ -66,7 +66,7 @@ const HomeComponent = () => {
 
         <div class="wd-retweet-box rounded">
         <div>
-                <img class="wd-retweet-avatar mt-2 ms-2"
+                <img class="wd-retweet-avatar mt-2 ms-2" alt="elon musk"
                     src={require('../images/spacex.png')}/>
                 <span class="wd-author-name"><b>SpaceX</b></span>
                 <span class="wd-author-name ms-1"><i class="fa fa-check-circle" aria-hidden="true"></i></span>
