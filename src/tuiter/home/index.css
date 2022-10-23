@@ -1,0 +1,129 @@
+.wd-page-title {
+    color: white;
+    font-size: 20px;
+    margin-top: 12px;
+    font-family: 'Verdana';
+}
+
+.wd-handle {
+    color: lightgrey;
+    margin-bottom: 12px;
+    font-family: 'Verdana';
+    font-size: 13px;
+}
+
+.wd-avatar-image {
+    height: 48px;
+    width: 48px;
+    border-radius: 50px;
+    float: left;
+}
+
+.wd-author-name {
+    color: black;
+    margin-left: 12px;
+    margin-top: 12px;
+    font-size: 15px;
+    float:left
+}
+
+.wd-author-handle {
+    color: rgb(110, 118, 125);
+    font-family: 'Verdana';
+    font-size: 15px;
+    margin-left: 5px;
+    margin-top: 12px;
+    float:left
+}
+
+.wd-bookmark-text {
+    color: black;
+    font-size: 15px;
+    width: 75%;
+    margin-right: 16px;
+    margin-left: 35px;
+    margin-bottom: 12px;
+    padding-left: 25px;
+
+}
+
+.wd-bookmark-image {
+    height: 264px;
+    width: 75%;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    margin-left: 60px;
+    border: rgb(47, 51, 54);
+    border-width: 1px;
+    border-style: solid;
+}
+
+.wd-bookmark-description {
+    color:white;
+    font-size: 15px;
+    font-family: 'Verdana';
+    margin-left: 60px; 
+    width: 480px;
+    margin-top: -5px; 
+    border-color: rgb(47, 51, 54); 
+    border-style: solid; 
+    padding: 12px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+
+.wd-bookmark-symbols {
+    height: 15px;
+    width: 15px;
+    margin-left: 70px;
+    float: left;
+}
+
+.wd-bookmark-symbol-numbers {
+    color: rgb(143, 140, 140);
+    font-family: 'Verdana';
+    font-size: 14px;
+    margin-left: 12px;
+    float: left;
+
+}
+
+.wd-handle-box {
+    display: flex;
+
+}
+
+.wd-bottom-box {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 75px;
+    margin-top: 2%;
+    margin-right: 25%;
+    color:rgb(47, 51, 54);
+}
+
+.wd-thread {
+    color: dodgerblue;
+    margin-left: 60px;
+}
+
+.wd-retweet-box {
+    margin-left: 60px;
+    border-style: solid;
+    border-color:rgb(143, 140, 140);
+    height: 200pxpx;
+    width: 75%
+}
+
+.wd-retweet-avatar {
+    height: 35px;
+    width:35px;
+    border-radius: 25px;
+    float:left;
+    
+}
+
+.wd-retweet-header {
+    color: gray;
+    font-size: 15px
+}
