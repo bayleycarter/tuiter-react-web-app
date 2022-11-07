@@ -2,7 +2,7 @@ import React from "react";
 import {useSelector} from "react-redux";
 import EditProfile from "./edit-profile.js";
 
-  const ProfileComponent = () => {
+  const EditProfileComponent = () => {
     const profileArray = useSelector(
                         (state) => state.profile);
   
@@ -18,4 +18,4 @@ import EditProfile from "./edit-profile.js";
     );
    };
    
-   export default ProfileComponent;
+   export default EditProfileComponent;
