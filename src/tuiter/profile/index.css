@@ -1,0 +1,53 @@
+.wd-banner-img {
+    width: 100%;
+    height: 250px;
+}
+
+.wd-profile-img {
+    border-radius: 150px;
+    height: 125px;
+    width: 125px;
+    position: relative;
+    top: -70px;
+    left: 40px
+}
+
+.wd-profile-name {
+    font-size: 25px;
+    margin-top: -40px;
+}
+
+.wd-profile-handle {
+    color: gray
+}
+
+.wd-profile-bio {
+    color: rgb(48, 41, 41)
+}
+
+.wd-profile-info {
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    width: 75%
+}
+
+.wd-follow-info {
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    width: 55%
+}
+
+.wd-edit-profile {
+    border-radius: 25px;
+    padding: 13px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-style: solid;
+    border-color: rgb(199, 187, 187);
+    border-width: 1px;
+    background-color: white;
+    text-decoration: none;
+    color: black
+}
