@@ -26,7 +26,7 @@ const profileSlice = createSlice({
 
       }
 
-  }``
+  }
 });
 
 export const {changeValue} = profileSlice.actions;
